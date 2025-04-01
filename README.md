@@ -37,3 +37,6 @@ Endurance Stint Master is a mobile application built for organizing and managing
 cd backend
 go mod tidy
 go run main.go
+
+
+![image](https://github.com/user-attachments/assets/efdb4a4b-c90a-42b5-974a-19f71e4f55b2)
