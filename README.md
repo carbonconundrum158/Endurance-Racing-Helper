@@ -39,4 +39,6 @@ go mod tidy
 go run main.go
 
 
-![image](https://github.com/user-attachments/assets/efdb4a4b-c90a-42b5-974a-19f71e4f55b2)
+## Diagrams
+
+[image](https://github.com/user-attachments/assets/d21b6c42-733a-4301-a171-dbfdbaf8e916)
