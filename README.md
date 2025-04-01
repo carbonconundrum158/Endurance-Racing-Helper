@@ -39,6 +39,6 @@ go mod tidy
 go run main.go
 
 
-## Diagrams
+### Diagrams
 
 [image](https://github.com/user-attachments/assets/d21b6c42-733a-4301-a171-dbfdbaf8e916)
