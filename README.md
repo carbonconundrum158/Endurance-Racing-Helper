@@ -19,6 +19,14 @@ Endurance Stint Master is a mobile application built for organizing and managing
 - **Authentication**: (Planned) Firebase or custom JWT-based
 - **Hosting**: TBD
 
+## 🧭 Diagrams
+
+Here’s a basic data model to show how the core entities in the system relate to each other:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d21b6c42-733a-4301-a171-dbfdbaf8e916" alt="Entity Relationship Diagram" width="700"/>
+</p>
+
 ## 📲 Screenshots
 
 > Add screenshots or screen recordings here once available
@@ -37,8 +45,3 @@ Endurance Stint Master is a mobile application built for organizing and managing
 cd backend
 go mod tidy
 go run main.go
-
-
-### Diagrams
-
-[image](https://github.com/user-attachments/assets/d21b6c42-733a-4301-a171-dbfdbaf8e916)
