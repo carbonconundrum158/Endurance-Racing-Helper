@@ -1,0 +1,102 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+pubspec.lock
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Xcode
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.moved-aside
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*sync/
+**/ios/**/.sconsign.dblite
+**/ios/**/.tags*
+**/ios/**/.vagrant/
+**/ios/**/DerivedData/
+**/ios/**/Icon?
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+**/ios/**/profile
+**/ios/**/xcuserdata
+**/ios/.generated/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Windows
+**/windows/flutter/ephemeral/
+**/windows/flutter/generated_plugin_registrant.*
+**/windows/flutter/generated_plugins.cmake
+**/windows/flutter/flutter_windows.dll
+**/windows/flutter/flutter_windows.dll.pdb
+**/windows/flutter/flutter_windows.dll.lib
+**/windows/flutter/flutter_windows.dll.exp
+**/windows/flutter/flutter_windows.h
+**/windows/flutter/generated_config.cmake
+**/windows/flutter/icudtl.dat
+**/windows/flutter/ephemeral/cpp_client_wrapper/
+**/windows/flutter/ephemeral/flutter_export.h
+**/windows/flutter/ephemeral/flutter_messenger.h
+**/windows/flutter/ephemeral/flutter_plugin_registrar.h
+**/windows/flutter/ephemeral/flutter_texture_registrar.h
+**/windows/flutter/ephemeral/cpp_client_wrapper/
+**/windows/flutter/ephemeral/cpp_client_wrapper/binary_messenger_impl.h
+**/windows/flutter/ephemeral/cpp_client_wrapper/byte_buffer_streams.h
+**/windows/flutter/ephemeral/cpp_client_wrapper/core_implementations.cc
+**/windows/flutter/ephemeral/cpp_client_wrapper/engine_method_result.cc
+**/windows/flutter/ephemeral/cpp_client_wrapper/flutter_engine.cc
+**/windows/flutter/ephemeral/cpp_client_wrapper/flutter_view_controller.cc
+**/windows/flutter/ephemeral/cpp_client_wrapper/include/
+**/windows/flutter/ephemeral/cpp_client_wrapper/plugin_registrar.cc
+**/windows/flutter/ephemeral/cpp_client_wrapper/standard_codec.cc
+**/windows/flutter/ephemeral/cpp_client_wrapper/texture_registrar_impl.h
+**/windows/flutter/ephemeral/cpp_client_wrapper/readme
